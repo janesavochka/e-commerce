@@ -1,10 +1,4 @@
-Всем привет! Это мой проект, посвященный анализу данных с помощью различных библиотек Python (используемы стек: pandas, requests, numpy, datetime, warnings) 
-
-
-%matplotlib inline
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px.
+Всем привет! Это мой проект, посвященный анализу данных с помощью различных библиотек Python (используемы стек: pandas, requests, numpy, datetime, warnings, seaborn, matplotlib.pyplot, plotly.express as px).
 
 Основные задачи проекта:
 - выгрузка и изучение имеющихся данных;
